@@ -1,0 +1,11 @@
+.ace-nav > li {
+	border-left:0px;
+}
+
+.profile-info-name {
+	text-align: left;
+}
+
+.align-center, .center {
+	text-align: left !important;
+}
